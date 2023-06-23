@@ -1,0 +1,44 @@
+#formId{
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 600px;
+}
+
+#containerForm{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#sortTable{
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 1000px;
+}
+
+#containerTab{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#containerChercheCompte{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#boxChercheCompte{
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 1000px;
+}
